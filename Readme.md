@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Безродный](https://up.htmlacademy.ru/react/5/user/66791).
-* Наставник: `Неизвестно`.
+* Наставник: `TypeScript my love!`.
 
 ---
 
